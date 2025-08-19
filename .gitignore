@@ -72,3 +72,7 @@ isar-dart.h
 
 # Coverage
 coverage/
+
+# Isar related
+!packages/isar_flutter_libs/ios/isar.xcframework/
+!packages/isar_flutter_libs/ios/isar.xcframework/**
